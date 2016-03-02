@@ -6,15 +6,12 @@ body {
     background: lightgray;
 }
 .page {
+    margin:15px auto 50px;
     background: white;
-    height: 855px;
     max-width:520px;
     width:100%;
-    margin: auto;
     padding: 0 50px;
-}
-.wrapper{
-    width:100%
+    box-shadow: 0 0 3px 3px  grey;
 }
 
 .name{
@@ -29,13 +26,11 @@ h1{
     margin-bottom:15px;
 }
 .frontend{
-    width: 100%;
-    height: 147px;
     padding: 20px 0 0 10px;
     border-bottom: 2px solid lightgray;
 }
 .frontend p{
-    margin-bottom: 37px
+    margin-bottom: 35px
 }
 ul{
     margin-left: 20px;
@@ -43,10 +38,7 @@ ul{
     line-height: 22px;
 }
 .link{
-    width: 100%;
-    height: 136px;
-    padding-top: 30px;
-    padding-left: 10px;
+    padding: 30px 0 20px 10px;
     border-bottom: 2px solid lightgray;
 
 }
