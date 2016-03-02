@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: lightgray;
+}
+.page {
+    background: white;
+    height: 855px;
+    max-width:520px;
+    width:100%;
+    margin: auto;
+    padding: 0 50px;
+}
+.wrapper{
+    width:100%
+}
+
+.name{
+    padding-top: 50px;
+    text-align: center;
+    border-bottom: 2px solid lightgray;
+}
+.title {
+    margin: 20px 0;
+}
+h1{
+    margin-bottom:15px;
+}
+.frontend{
+    width: 100%;
+    height: 147px;
+    padding: 20px 0 0 10px;
+    border-bottom: 2px solid lightgray;
+}
+.frontend p{
+    margin-bottom: 37px
+}
+ul{
+    margin-left: 20px;
+    margin-bottom: 22px;
+    line-height: 22px;
+}
+.link{
+    width: 100%;
+    height: 136px;
+    padding-top: 30px;
+    padding-left: 10px;
+    border-bottom: 2px solid lightgray;
+
+}
+.link_p{
+    padding-top: 36px;
+}
+.fitbec{
+    padding: 26px 0 50px 10px;
+}
